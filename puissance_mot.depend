@@ -1,0 +1,178 @@
+# depslib dependency file v1.0
+1329001083 source:c:\users\public\music\sample music\algo\projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1329387572 source:e:\projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1332180914 source:e:\algo\projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1331755578 source:c:\users\public\music\sample music\cours\algo\projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1338793266 source:e:\algo\projet\puissance_mot\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"dico.h"
+	"liste.h"
+	"scores.h"
+
+1337626144 source:e:\algo\projet\puissance_mot\dico.c
+	"dico.h"
+
+1337619634 e:\algo\projet\puissance_mot\dico.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"liste.h"
+
+1337540867 source:c:\users\public\music\sample music\cours\algo\puissance_mot\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"dico.h"
+	"liste.h"
+	"scores.h"
+
+1337281916 c:\users\public\music\sample music\cours\algo\puissance_mot\dico.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"liste.h"
+
+1337352506 source:c:\users\public\music\sample music\cours\algo\puissance_mot\dico.c
+	"dico.h"
+
+1337542141 c:\users\public\music\sample music\cours\algo\puissance_mot\liste.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1337537122 source:c:\users\public\music\sample music\cours\algo\puissance_mot\liste.c
+	"liste.h"
+
+1337537270 source:c:\users\public\music\sample music\cours\algo\puissance_mot\scores.c
+	"scores.h"
+
+1337281916 c:\users\public\music\sample music\cours\algo\puissance_mot\scores.h
+	<stdio.h>
+	<stdlib.h>
+	"liste.h"
+
+1337619590 source:e:\algo\projet\puissance_mot\liste.c
+	"liste.h"
+
+1337619590 e:\algo\projet\puissance_mot\liste.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1337281918 e:\algo\projet\puissance_mot\scores.h
+	<stdio.h>
+	<stdlib.h>
+	"liste.h"
+
+1337620218 source:e:\algo\projet\puissance_mot\scores.c
+	"scores.h"
+
+1335209134 source:k:\algo\projet\puissance_mot\liste.c
+	"liste.h"
+
+1335211438 k:\algo\projet\puissance_mot\liste.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1335211186 source:k:\algo\projet\puissance_mot\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dico.h"
+	"liste.h"
+	"scores.h"
+
+1333809744 k:\algo\projet\puissance_mot\dico.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1334217252 k:\algo\projet\puissance_mot\scores.h
+	<stdio.h>
+	<stdlib.h>
+	"dico.h"
+
+1334222170 source:k:\algo\projet\puissance_mot\scores.c
+	"scores.h"
+
+1334333298 source:k:\algo\projet\puissance_mot\dico.c
+	"dico.h"
+
+1337537124 source:d:\algo\projet\puissance_mot\liste.c
+	"liste.h"
+
+1337542142 d:\algo\projet\puissance_mot\liste.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1337537272 source:d:\algo\projet\puissance_mot\scores.c
+	"scores.h"
+
+1337281918 d:\algo\projet\puissance_mot\scores.h
+	<stdio.h>
+	<stdlib.h>
+	"liste.h"
+
+1337352508 source:d:\algo\projet\puissance_mot\dico.c
+	"dico.h"
+
+1337281918 d:\algo\projet\puissance_mot\dico.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"liste.h"
+
+1337619590 source:d:\1a\algo\projet\puissance_mot\liste.c
+	"liste.h"
+
+1337619590 d:\1a\algo\projet\puissance_mot\liste.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1338793266 source:d:\1a\algo\projet\puissance_mot\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"dico.h"
+	"liste.h"
+	"scores.h"
+
+1337619634 d:\1a\algo\projet\puissance_mot\dico.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"liste.h"
+
+1337281918 d:\1a\algo\projet\puissance_mot\scores.h
+	<stdio.h>
+	<stdlib.h>
+	"liste.h"
+
+1337620218 source:d:\1a\algo\projet\puissance_mot\scores.c
+	"scores.h"
+
+1337626144 source:d:\1a\algo\projet\puissance_mot\dico.c
+	"dico.h"
+

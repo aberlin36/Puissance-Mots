@@ -1,0 +1,11 @@
+*****************************************************************************
+Puissance mot se joue a deux joueurs.
+Sur une grille, chaque joueur met a tour de role un pion contenant une
+lettre de l'alphabet dans une colonne. Celui-ci descend en bas de la colonne.
+Le but du jeu est de former un maximum de mots tout en empechant son
+adversaire d'en faire autant. Vous pouvez former des mot a la verticale,
+a l'horizontale ou en diagonale.
+Le gagnant est celui qui a forme le plus de mots avec le plus de lettres.
+La partie se termine lorsque la grille est remplie ou si un des deux joueurs
+ne possede plus de lettres.
+*****************************************************************************
